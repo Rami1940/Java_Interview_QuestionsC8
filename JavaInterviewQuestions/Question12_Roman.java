@@ -12,11 +12,20 @@ public class Question12_Roman {
     // removeDup("abc")    -> "abc"
 
     public static void main(String[] args) {
-        System.out.println(removeDuplicates("aaaa"));
+
+
+        System.out.println("The input word is Mammamia");
+        System.out.println("The output word is "+removeDuplicates("Mammamia"));
     }
 
     //this method take string remove duplicates and return the new one
     public static String removeDuplicates(String word) {
+
+
+        // I ran your code, but it did'nt detect letters in capital letter.
+        // so I added this line below to make all words lower case.
+        // let me know if have a better idea of catching lower and upper case
+       word = word.toLowerCase();
 
         //we need to create an empty string where we will store only unique value of string
         String withoutDuplicates = "";
@@ -47,6 +56,7 @@ public class Question12_Roman {
 
         return withoutDuplicates;
     }
+
 
 }
 
