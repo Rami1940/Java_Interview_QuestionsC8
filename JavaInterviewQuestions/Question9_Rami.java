@@ -1,4 +1,4 @@
 package JavaInterviewQuestions;
 
-public class Question9 {
+public class Question9_Rami {
 }
