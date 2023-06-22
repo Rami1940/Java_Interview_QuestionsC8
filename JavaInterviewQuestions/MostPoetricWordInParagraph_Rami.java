@@ -1,4 +1,9 @@
 
+
+
+// I tried to solve the question in a different way
+// let me know if you have any feedback or any questions :)
+
     public static void main(String[] args) {
 
         String str = "and the garden diminishes: grape leaves rumpled and rusty, zucchini felled by borers, tomatoes sparse on the vines";
