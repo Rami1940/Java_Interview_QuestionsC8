@@ -1,6 +1,6 @@
 package JavaInterviewQuestions;
 
-public class SingleEqualSign_DoubleEqualSign_equalsMethod {
+public class SingleEqualSign_DoubleEqualSign_equalsMethod_Rami {
 
     // Question 9: String Pool and == operator to compare references in Java.
     // Another way of asking this question could be: What is the difference between = , ==, and equals()

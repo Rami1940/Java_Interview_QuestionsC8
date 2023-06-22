@@ -5,10 +5,10 @@
 
 // 2 minutes for thinking
 // 2 minutes explain your approach
-
+package JavaInterviewQuestions;
 import java.util.Arrays;
 
-class HelloWorld {
+class Sort_Int_Array_BarisSolution {
     public static void main(String[] args) {
         int[] arrayNotSortedExample = new int[]{4,1,5,8,2,3};
         int[] sortedArray = sortTheArray(arrayNotSortedExample);
