@@ -1,7 +1,7 @@
 package JavaInterviewQuestions;
 
 
-public class Question12_Roman {
+public class RemoveDuplicatesFromString {
     //12. Remove duplicates from a string.
     // Write a method that accepts one string argument and returns it without duplicates.
     //We will see two versions of this method.
