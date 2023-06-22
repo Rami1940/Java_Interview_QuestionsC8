@@ -28,5 +28,6 @@ public class Even_ODD_WithTernary_YakupSen {
         //we need to store the output in string
         String result=(number%2==0) ? "Even" :"odd";
         System.out.println(result);
+        //new
 }
 }
