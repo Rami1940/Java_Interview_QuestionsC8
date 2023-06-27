@@ -21,6 +21,8 @@ public class Question10_swapNumbers_pinar {
 
 
         //swap values without assigning a new variable
+        //easy to remember
+
         int x = 10;
         int y = 20;
         System.out.println("original x = "+x);
