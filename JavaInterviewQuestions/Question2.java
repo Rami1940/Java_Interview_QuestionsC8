@@ -1,9 +1,11 @@
 package JavaInterviewQuestions;
 
 public class Question2 {
-    public static String UsingStringBuilder(String p_Word){
-        StringBuilder SB = new StringBuilder(p_Word);
+
+    public static void main(String[] args) {
+        StringBuilder SB = new StringBuilder("reverseString");
         SB.reverse();
-        return SB.toString();
+        System.out.println(SB);
+
     }
 }
